@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/NimHelloJNICallback/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/hello-jnicallback.dir
+D:/AndroidStudioProjects/NimHelloJNICallback/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/NimHelloJNICallback/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

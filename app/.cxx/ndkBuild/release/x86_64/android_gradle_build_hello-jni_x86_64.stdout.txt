@@ -1,0 +1,6 @@
+[x86_64] Compile        : hello-jni <= @mhello_jni.nim.c
+[x86_64] Compile        : hello-jni <= @mjni_wrapper.nim.c
+[x86_64] Compile        : hello-jni <= stdlib_os.nim.c
+[x86_64] Compile        : hello-jni <= stdlib_system.nim.c
+[x86_64] Compile        : hello-jni <= stdlib_times.nim.c
+[x86_64] SharedLibrary  : libhello-jni.so

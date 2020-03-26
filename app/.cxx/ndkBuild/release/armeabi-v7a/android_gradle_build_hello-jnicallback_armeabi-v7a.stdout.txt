@@ -1,0 +1,3 @@
+[armeabi-v7a] Compile thumb  : hello-jnicallback <= @mhello_jni_callback.nim.c
+[armeabi-v7a] Compile thumb  : hello-jnicallback <= stdlib_system.nim.c
+[armeabi-v7a] SharedLibrary  : libhello-jnicallback.so

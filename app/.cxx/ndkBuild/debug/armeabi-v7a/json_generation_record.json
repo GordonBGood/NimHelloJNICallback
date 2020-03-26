@@ -1,0 +1,86 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: armeabi-v7a",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_command.txt, will remove stale json folder",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\u0027",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\u0027",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : C:\\Users\\Joe\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dD:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-23\nNDK_OUT\u003dD:/AndroidStudioProjects/NimHelloJNICallback/app/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003dD:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\build\\intermediates\\ndkBuild\\debug\\lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : C:\\Users\\Joe\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dD:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-23\nNDK_OUT\u003dD:/AndroidStudioProjects/NimHelloJNICallback/app/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003dD:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\build\\intermediates\\ndkBuild\\debug\\lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing ndkBuild",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_output.txt",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "parse and convert ndk-build output to build configuration JSON",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_command.txt",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\AndroidStudioProjects\\NimHelloJNICallback\\app\\src\\main\\cpp\\Android.mk",
+    "tag": "debug|armeabi-v7a"
+  }
+]

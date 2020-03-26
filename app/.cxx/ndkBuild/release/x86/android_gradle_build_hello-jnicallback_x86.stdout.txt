@@ -1,0 +1,3 @@
+[x86] Compile        : hello-jnicallback <= @mhello_jni_callback.nim.c
+[x86] Compile        : hello-jnicallback <= stdlib_system.nim.c
+[x86] SharedLibrary  : libhello-jnicallback.so

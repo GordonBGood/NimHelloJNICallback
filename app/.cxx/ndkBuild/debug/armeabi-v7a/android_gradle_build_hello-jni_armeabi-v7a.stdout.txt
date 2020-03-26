@@ -1,0 +1,6 @@
+[armeabi-v7a] Compile thumb  : hello-jni <= @mhello_jni.nim.c
+[armeabi-v7a] Compile thumb  : hello-jni <= @mjni_wrapper.nim.c
+[armeabi-v7a] Compile thumb  : hello-jni <= stdlib_os.nim.c
+[armeabi-v7a] Compile thumb  : hello-jni <= stdlib_system.nim.c
+[armeabi-v7a] Compile thumb  : hello-jni <= stdlib_times.nim.c
+[armeabi-v7a] SharedLibrary  : libhello-jni.so
